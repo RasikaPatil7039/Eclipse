@@ -1,9 +1,9 @@
-
 package com.aurionpro.model;
 
 public class Rectangle {
 	private double height;
 	private double width;
+	private Color color;
 
 	public void setHeight(double height) {
 		this.height = getcorrectedValues(height);
@@ -31,4 +31,13 @@ public class Rectangle {
 	public double getWidth() {
 		return width;
 	}
+
+	public Color getColor() {
+		return color;
+	}
+
+	public void setColor(Color color) {
+		this.color = color;
+	}
+
 }
