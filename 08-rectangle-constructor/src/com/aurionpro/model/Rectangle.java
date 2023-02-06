@@ -3,17 +3,31 @@ package com.aurionpro.model;
 public class Rectangle {
 	private int height;
 	private int width;
+	private Color color;
 
-	public Rectangle(int height, int width) { // constructor
+	public Rectangle(int height, int width, Color color) { // constructor
 		this.height = height;
 		this.width = width;
+		this.color = color;
+	}
+
+	public Rectangle(int width, int height) {
+		this(width, height, Color.green);
 	}
 
 	public Rectangle() {
-
+		this(5, 10, Color.green);
 	}
 
-	public int getHeight() { // gettersetter
+	public Color getColor() { // gettersetter
+		return color;
+	}
+
+	public void setColor(Color color) {
+		this.color = color;
+	}
+
+	public int getHeight() {
 		return height;
 	}
 
@@ -30,9 +44,9 @@ public class Rectangle {
 	}
 
 	public double calculateArea() { // methodtocalculatearea
-		double area;
-		area = height * width;
-		return area;
+
+		return height * width;
+
 	}
 
 }

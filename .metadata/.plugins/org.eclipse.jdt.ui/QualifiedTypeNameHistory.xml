@@ -2,6 +2,35 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="com.aurionpro.test.model.Circle"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="com.aurionpro.model.Color"/>
+    <fullyQualifiedTypeName name="com.aurionpro.model.Circle"/>
+    <fullyQualifiedTypeName name="com.aurionpro.model.BorderType"/>
+    <fullyQualifiedTypeName name="com.aurionpro.test.CircleTest"/>
+    <fullyQualifiedTypeName name="com.aurionpro.model.Rectangle"/>
+    <fullyQualifiedTypeName name="com.aurionpro.model.Player"/>
+    <fullyQualifiedTypeName name="com.aurionpro.model.Account"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="java.io.Writer"/>
+    <fullyQualifiedTypeName name="java.io.FileWriter"/>
+    <fullyQualifiedTypeName name="java.io.FileInputStream"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="com.aurionpro.model.Parent"/>
+    <fullyQualifiedTypeName name="com.aurionpro.model.Child1"/>
+    <fullyQualifiedTypeName name="com.aurionpro.model.Boy"/>
+    <fullyQualifiedTypeName name="com.aurionpro.model.TicTacToe"/>
+    <fullyQualifiedTypeName name="java.util.InputMismatchException"/>
+    <fullyQualifiedTypeName name="com.aurion.model.Reflection"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.Constructor"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.Method"/>
+    <fullyQualifiedTypeName name="com.aurionpro.model.Array"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="com.aurionpro.model.Animal"/>
+    <fullyQualifiedTypeName name="com.aurionpro.model.Cow"/>
+    <fullyQualifiedTypeName name="com.aurionpro.model.Lion"/>
+    <fullyQualifiedTypeName name="com.aurionpro.model.Kid"/>
+    <fullyQualifiedTypeName name="com.aurionpro.model.Man"/>
+    <fullyQualifiedTypeName name="com.aurionpro.model.Infant"/>
 </qualifiedTypeNameHistroy>

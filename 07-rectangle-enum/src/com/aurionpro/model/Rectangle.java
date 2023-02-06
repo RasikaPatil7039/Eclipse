@@ -37,7 +37,7 @@ public class Rectangle {
 	}
 
 	public void setColor(Color color) {
-		this.color = color;
+		this.color = color.blue;
 	}
 
 }

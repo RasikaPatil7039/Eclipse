@@ -8,9 +8,10 @@ public class RectangleTest {
 		Rectangle obj = new Rectangle(); // object created
 		obj.setHeight(100);
 		obj.setWidth(20);
-		obj.setColor(red);
+		//obj.setColor("red");
 		System.out.println(obj.getHeight()); //through object we call members
 		System.out.println(obj.getWidth());
+		System.out.println(obj.getColor());
 		
 		
 		//obj.height = 10;
