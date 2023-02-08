@@ -3,11 +3,8 @@
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="com.aurionpro.test.model.Circle"/>
     <fullyQualifiedTypeName name="java.lang.Integer"/>
-    <fullyQualifiedTypeName name="com.aurionpro.model.Color"/>
-    <fullyQualifiedTypeName name="com.aurionpro.model.Circle"/>
     <fullyQualifiedTypeName name="com.aurionpro.model.BorderType"/>
     <fullyQualifiedTypeName name="com.aurionpro.test.CircleTest"/>
-    <fullyQualifiedTypeName name="com.aurionpro.model.Rectangle"/>
     <fullyQualifiedTypeName name="com.aurionpro.model.Player"/>
     <fullyQualifiedTypeName name="com.aurionpro.model.Account"/>
     <fullyQualifiedTypeName name="java.io.IOException"/>
@@ -33,4 +30,13 @@
     <fullyQualifiedTypeName name="com.aurionpro.model.Kid"/>
     <fullyQualifiedTypeName name="com.aurionpro.model.Man"/>
     <fullyQualifiedTypeName name="com.aurionpro.model.Infant"/>
+    <fullyQualifiedTypeName name="com.aurionpro.model.SavingAccount"/>
+    <fullyQualifiedTypeName name="com.aurionpro.model.CurrentAccount"/>
+    <fullyQualifiedTypeName name="java.awt.Color"/>
+    <fullyQualifiedTypeName name="com.aurionpro.model.Color"/>
+    <fullyQualifiedTypeName name="com.aurionpro.model.Circle"/>
+    <fullyQualifiedTypeName name="com.aurionpro.model.Rectangle"/>
+    <fullyQualifiedTypeName name="com.aurionpro.model.Manager"/>
+    <fullyQualifiedTypeName name="com.aurionpro.model.Salesman"/>
+    <fullyQualifiedTypeName name="com.aurionpro.model.Accountant"/>
 </qualifiedTypeNameHistroy>

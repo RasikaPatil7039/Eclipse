@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <typeInfoHistroy>
-    <typeInfo handle="=18-account-app/src&lt;com.aurionpro.model{Account.java[Account" modifiers="1" timestamp="1675687797888"/>
+    <typeInfo handle="=18-account-app/src&lt;com.aurionpro.model{Account.java[Account" modifiers="1" timestamp="1675761988286"/>
+    <typeInfo handle="=25-abstract-shape/src&lt;com.aurionpro.model{Shape.java[Shape" modifiers="1025" timestamp="1675768028243"/>
+    <typeInfo handle="=25-abstract-employee/src&lt;com.aurionpro.model{Employee.java[Employee" modifiers="1025" timestamp="1675773486062"/>
 </typeInfoHistroy>

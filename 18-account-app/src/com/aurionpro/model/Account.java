@@ -5,6 +5,11 @@ public class Account {
 	private String name;
 	private double balance;
 
+	@Override
+	public String toString() {
+		return "Account [accountnumber=" + accountnumber + ", name=" + name + ", balance=" + balance + "]";
+	}
+
 	public Account(int accountnumber, String name, double balance) {
 		super();
 		this.accountnumber = accountnumber;
