@@ -17,12 +17,10 @@ public class LinkedHahSetTest {
 		System.out.println("remove z from array: "+linkedset.remove("z"));
 		System.out.println("remove rutuja from array: "+linkedset.remove("rutuja"));
 		System.out.println("check rasika is present in array: "+linkedset.contains("rasika"));
-		//System.out.println(linkedset);
 		
 		Iterator itr=linkedset.iterator();
 		System.out.println(itr.next());
 		for(String s:linkedset)
 			System.out.println(s);
 	}
-
 }

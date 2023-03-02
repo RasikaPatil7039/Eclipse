@@ -35,6 +35,9 @@ public class MinMaxTest {
 		List<Integer> emplist1 = Arrays.asList(1, 2, 3, 4);
 		System.out.println(emplist1.stream().reduce(0, (Integer::sum)));
 		System.out.println(emplist1.stream().reduce(0, (total, e) -> Integer.sum(total, e)));
+		System.out.println(emplist1.stream().map(String::valueOf).reduce(" ", (carry, str) -> carry.concat(str)));
+		System.out.println(emplist1.stream().map(String::valueOf).reduce(" ",  String::concat));
+	
 	}
 }
 //reduce,findany,findfirst

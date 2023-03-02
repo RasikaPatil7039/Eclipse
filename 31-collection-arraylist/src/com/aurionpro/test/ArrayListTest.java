@@ -30,7 +30,6 @@ public class ArrayListTest { // arraylist is used as a dynamic it does not has f
 		}
 
 		// to delete elements
-
 		list.remove(0); // delete using indexof array
 
 		list.remove(new Integer(15));

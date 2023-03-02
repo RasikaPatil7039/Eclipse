@@ -13,7 +13,6 @@ public class HashMapTest {
 		map.put("rasika", 10);
 		map.put("krutika", 20);
 		map.put("rutuja", 30);
-
 		System.out.println(map);
 
 		map.remove("rutuja", 30);
@@ -28,26 +27,22 @@ public class HashMapTest {
 
 		map.forEach((key, value) -> System.out.println(key + " : " + value));
 
-		for(String x:map.keySet()) {
-			System.out.println(x + " : " +map.get(x));
+		for (String x : map.keySet()) {
+			System.out.println(x + " : " + map.get(x));
 		}
-		
+
 		if (map.containsKey("rasika")) {
 			Integer a = map.get("rasika");
 			System.out.println("value for key rasika is: " + a);
 		}
-		
-		Iterator<Entry<String, Integer>> iterator = map.entrySet().iterator();  //if thta specific key found than delete it
+
+		Iterator<Entry<String, Integer>> iterator = map.entrySet().iterator(); // if thta specific key found than delete
+																				// it
 		while (iterator.hasNext()) {
-		    if (iterator.next().getKey().equals("rasika"))
-		        iterator.remove();
+			if (iterator.next().getKey().equals("rasika"))
+				iterator.remove();
 		}
 		System.out.println(map);
-		
-		}
-	
-	
-	
-	
-	}
 
+	}
+}
